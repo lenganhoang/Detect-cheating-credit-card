@@ -1,5 +1,1 @@
-Bài tập lớn: Phát hiện gian lận thẻ tín dụng bằng mô hình Markov ẩn.
-
-Báo cáo trong đường dẫn /Báo cáo/baocao.pdf
-
-
+Tổng hợp các nghiên cứu cho các hệ thống khuyến nghị
